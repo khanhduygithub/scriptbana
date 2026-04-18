@@ -1,5 +1,5 @@
 [c] [ff8c00]━━━━━━━━━━━━━━━━━━━━━━
-[c] [00ffd8]-- AIM PROXY VIP --
+[c] [00ffd8]-- AIM PROXY KhanhDuy --
 [c] [ff8c00]━━━━━━━━━━━━━━━━━━━━━━
 [c] [ffd700]Vui lòng tắt Proxy
 [c] [ff8c00]━━━━━━━━━━━━━━━━━━━━━━
